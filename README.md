@@ -30,3 +30,7 @@ Se creó un README en la carpeta de frontend para registrar los cambios. Por el 
 ### Fase actual de desarrollo:
 ---
 [ ] Servicio de articulos (17 Febrero, 2024).
+
+## Base de Datos
+
+Comom base de datos,. aún se está pensando en montar un servidor o crear instancias en alguna nube, epero sigue en discusión, nuestra opción es un tipo de base de datos con opción de hoisting para la creación de data
